@@ -1,4 +1,5 @@
-🗺️ Google Map Pathfinding with A* – Tây Hồ, Hà Nội
+________Google Map Pathfinding with A* – Tây Hồ, Hà Nội 🗺️ _________
+
 This project is a simple pathfinding application that uses the A (A-star) algorithm* to find the shortest path between two points in Tây Hồ District, Hà Nội, Việt Nam.
 
 🚀 Features
